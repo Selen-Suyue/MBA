@@ -1,6 +1,6 @@
 # Motion Before Action: Diffusing Object Motion as Manipulation Condition
 
-[[Paper]](https://arxiv.org/abs/2411.09658) [[Project Page]](https://selen-suyue.github.io/MBApage/) [[Sample Data]]()
+[[Paper]](https://arxiv.org/abs/2411.09658) [[Project Page]](https://selen-suyue.github.io/MBApage/) [[Sample Data]]() [[Simulation Tasks Report]](assets/docs/sim.pdf)
 
 **Authors**: [Yue Su*](https://selen-suyue.github.io),[Xinyu Zhan*](https://scholar.google.com/citations?user=WurpqEMAAAAJ&hl=en) [Hongjie Fang](https://tonyfang.net/), [Yong-Lu Li](https://dirtyharrylyl.github.io/), [Cewu Lu](https://www.mvig.org/), [Lixin Yang &#9993;](https://lixiny.github.io/)
 
