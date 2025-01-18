@@ -133,7 +133,7 @@ class RealWorldDataset(Dataset):
                     calib_filepath = self.teleop_to_calib[pk]
                 else:
                     calib_filepath = self.teleop_to_camcalib[pk]
-                calib_filepath = self.teleop_to_calib[pk]
+                # calib_filepath = self.teleop_to_calib[pk]
                 # get samples according to num_obs and num_action
                 obs_frame_ids_list = []
                 action_frame_ids_list = []
