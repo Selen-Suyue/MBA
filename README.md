@@ -1,8 +1,13 @@
 # Motion Before Action: Diffusing Object Motion as Manipulation Condition
 
-[[Paper]](https://arxiv.org/abs/2411.09658) [[Project Page]](https://selen-suyue.github.io/MBApage/) [[Sample Data]]() [[Simulation Tasks Report]](assets/docs/sim.pdf)
+[![Paper on arXiv](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2411.09658) [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://selen-suyue.github.io/MBApage/) [![Simulation Tasks Report](https://img.shields.io/badge/Report-PDF-orange.svg)](assets/docs/sim.pdf)
 
-**Authors**: [Yue Su*](https://selen-suyue.github.io),[Xinyu Zhan*](https://scholar.google.com/citations?user=WurpqEMAAAAJ&hl=en) [Hongjie Fang](https://tonyfang.net/), [Yong-Lu Li](https://dirtyharrylyl.github.io/), [Cewu Lu](https://www.mvig.org/), [Lixin Yang &#9993;](https://lixiny.github.io/)
+**Authors**: <a href="https://selen-suyue.github.io" style="color: maroon; text-decoration: none; font-style: italic;">Yue Su*</a><sup></sup>,
+<a href="https://scholar.google.com/citations?user=WurpqEMAAAAJ&hl=en" style="color: maroon; text-decoration: none; font-style: italic;">Xinyu Zhan*</a><sup></sup>,
+<a href="https://tonyfang.net/" style="color: maroon; text-decoration: none; font-style: italic;">Hongjie Fang</a>,
+<a href="https://dirtyharrylyl.github.io/" style="color: maroon; text-decoration: none; font-style: italic;">Yong-Lu Li</a>,
+<a href="https://www.mvig.org/" style="color: maroon; text-decoration: none; font-style: italic;">Cewu Lu</a>,
+<a href="https://lixiny.github.io/" style="color: maroon; text-decoration: none; font-style: italic;">Lixin Yang&dagger;</a><sup></sup>
 
 ![teaser](assets/images/pipeline.png)
 
