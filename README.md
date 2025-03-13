@@ -15,7 +15,7 @@
 
 ### 💻 Installation
 
-We use [RISE](https://rise-policy.github.io/) as our real robot baseline, Please following the [installation guide](assets/docs/INSTALL.md) to install the `rise` conda environments and the dependencies, as well as the real robot environments. Also, remember to adjust the constant parameters in `dataset/constants.py` and `utils/constants.py` according to your own environment.
+We use [RISE](https://rise-policy.github.io/) as our real robot baseline, Please following the [installation guide](assets/docs/INSTALL.md) to install the `mba` conda environments and the dependencies, as well as the real robot environments. Also, remember to adjust the constant parameters in `dataset/constants.py` and `utils/constants.py` according to your own environment.
 
 ### 📷 Calibration
 
@@ -28,7 +28,7 @@ Data will be released soon.
 The training scripts are saved in [script](script).
 
 ```bash
-conda activate rise
+conda activate mba
 bash script/command_train__place__mba.sh # Add MBA module
 bash script/command_train__place.sh # For baseline
 ```
@@ -44,7 +44,7 @@ bash script/command_train__place.sh # For baseline
 Modify the arguments in `command_eval.sh`, then
 
 ```bash
-conda activate rise
+conda activate mba
 bash command_eval.sh
 ```
 
