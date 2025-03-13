@@ -6,8 +6,8 @@ Please follow the instructions to install the conda environments and the depende
 
 1. Create a new conda environment and activate the environment.
     ```bash
-    conda create -n rise python=3.8
-    conda activate rise
+    conda create -n mba python=3.8
+    conda activate mba
     ```
 
 2. Install necessary dependencies.
