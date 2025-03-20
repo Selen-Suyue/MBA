@@ -55,12 +55,12 @@ bash command_eval.sh
 ## ✍️ Citation
 
 ```bibtex
-@misc{su2024motionactiondiffusingobject,
-        title={Motion Before Action: Diffusing Object Motion as Manipulation Condition}, 
-        author={Yue Su and Xinyu Zhan and Hongjie Fang and Yong-Lu Li and Cewu Lu and Lixin Yang},
-        year={2024},
-        archivePrefix={arXiv} 
-  }
+@article{su2024motion,
+  title={Motion before action: Diffusing object motion as manipulation condition},
+  author={Su, Yue and Zhan, Xinyu and Fang, Hongjie and Li, Yong-Lu and Lu, Cewu and Yang, Lixin},
+  journal={arXiv preprint arXiv:2411.09658},
+  year={2024}
+}
 ```
 
 ## 📃 License
