@@ -55,7 +55,7 @@ bash command_eval.sh
 ## ✍️ Citation
 
 ```bibtex
-@ARTICLE{11027642,
+@ARTICLE{MBA,
   author={Su, Yue and Zhan, Xinyu and Fang, Hongjie and Li, Yong-Lu and Lu, Cewu and Yang, Lixin},
   journal={IEEE Robotics and Automation Letters}, 
   title={Motion Before Action: Diffusing Object Motion as Manipulation Condition}, 
