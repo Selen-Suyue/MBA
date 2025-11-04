@@ -12,6 +12,8 @@
 ![teaser](assets/images/pipeline.png)
 
 ## 🛫 Getting Started
+### About Sim
+You can view the whole eval results in the sim bench at [![Simulation Tasks Report](https://img.shields.io/badge/Report-PDF-orange.svg)](assets/docs/sim.pdf)
 
 ### 💻 Installation
 
